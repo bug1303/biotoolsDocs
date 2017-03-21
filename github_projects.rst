@@ -34,7 +34,7 @@ Adaptors for content exchange with community projects (SeqWIKI, BioConductor, Bi
 
 edamMap
 -------
-https://https://github.com/edamontology/edammap
+https://github.com/edamontology/edammap
 
 Mapping terms and text to EDAM concepts.
 
